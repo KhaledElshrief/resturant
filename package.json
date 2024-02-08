@@ -1,7 +1,6 @@
 {
   "name": "resturant",
   "version": "0.1.0",
-  "homepage": "https://KhaledElshrief.github.io/Spice-Sizzle",
 
   "private": true,
   "dependencies": {
